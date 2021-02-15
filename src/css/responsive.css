@@ -1,0 +1,31 @@
+@media (max-width: 575.98px) { 
+    .recipe__details{
+        margin-top:4rem;
+    }
+    .recipe__ingredients{
+        padding:0.2rem;
+    }
+    .shopping{
+        padding:0.2rem;
+    }
+    footer h2{
+        font-size:1.5rem;
+    }
+    .results__pages{
+        padding:0.1rem;
+    }
+    .results__link{
+        padding:0.2rem !important;
+    }
+    .recipe__title{
+        font-weight: 400;
+        font-size: 1rem;
+        width: 80%;
+    }
+    .recipe__title span{
+       padding:1rem;
+    }
+    .recipe__btn--add{
+        padding:0.5rem;
+    }
+}
